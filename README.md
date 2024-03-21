@@ -1,4 +1,4 @@
-# My Personal Data Cleaning Project
+# My internship Data Cleaning Project
 
 ## Overview
 
